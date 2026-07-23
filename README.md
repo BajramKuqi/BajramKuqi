@@ -72,18 +72,6 @@ My goal is to build reliable, scalable, and maintainable software while constant
 
 ---
 
-<h2 align="center">Featured Projects</h2>
-
-### UniTrack
-
-A university management system developed with JavaFX, FXML, MariaDB, and CSS, designed to simplify student and academic management.
-
-### Banking Management System
-
-A RESTful Web API built with ASP.NET Core featuring authentication, account management, and banking operations.
-
----
-
 <h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
